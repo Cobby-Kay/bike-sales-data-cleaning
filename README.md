@@ -24,8 +24,8 @@ Microsoft Excel: Remove Duplicates, Find & Replace, IF formulas, Sort, Filters, 
 - Screenshots in the `/screenshots` folder
 
 ## Before and After
-![Raw](screenshots/1-raw-data.png)
-![Cleaned](screenshots/2-cleaned-data.png)
+![Raw](screenshots/1-Raw-Data.png)
+![Cleaned](screenshots/2-Cleaned-Data.png)
 
 ## Credit
 Cleaning approach based on a tutorial by Alex the Analyst. Dataset from Kaggle.
