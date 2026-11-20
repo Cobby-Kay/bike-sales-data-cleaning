@@ -27,8 +27,6 @@ Microsoft Excel: Remove Duplicates, Find & Replace, IF formulas, Sort, Filters, 
 ![Raw](screenshots/1-Raw-Data.png)
 ![Cleaned](screenshots/2-Cleaned-Data.png)
 
-## Credit
-Cleaning approach based on a tutorial by Alex the Analyst. Dataset from Kaggle.
 
 ## Contact
 Appiah Samuel | appiahsamuelcobby34@gmail.com | www.linkedin.com/in/samuel-appiah-
